@@ -10,9 +10,11 @@ const Experience = () => {
                 <div className="timeline-block timeline-block-right">
                     <div className="marker"></div>
                     <div className="timeline-content">
-                        <h3>Years</h3>
+                        <h3>Physical Therapist Aide</h3>
+                        <h2>2018-2020</h2>
                         <p>
-                            lorem40dskfnansdfgnaekfgnanokgfnkankdsonfanskdonfgasd
+                            Assisted patients with different exercises with various mobility difficulties.
+                            Instructed and motivated patients during exercise sessions, under direction of a physical therapist. 
                         </p>
                     </div>
                 </div>

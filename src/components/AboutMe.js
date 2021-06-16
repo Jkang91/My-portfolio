@@ -15,7 +15,7 @@ const AboutMe = () => {
                     <p>
                         Full stack Software Engineer with a drive to create applications that can help people globally.
                         Proficient in Javascript, Ruby, Rails, and React.  Background experience in healthcare and customer services.
-                        
+                        Always eager to learn and go beyond the expectation.
                     </p>
                 </div>
             </div>

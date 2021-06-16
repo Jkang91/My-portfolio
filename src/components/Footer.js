@@ -22,7 +22,7 @@ const Footer = () => {
                                 <a className="footer-nav">About me</a>
                             </div>
                             <div className="col">
-                                <a className="footer-nav">Experience</a>
+                                {/* <a className="footer-nav">Experience</a> */}
                                 <br />
                                 <a className="footer-nav">Portfolio</a>
                                 <br />
