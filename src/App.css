@@ -97,6 +97,29 @@ nav ul li {
   text-transform: uppercase;
 }
 
+/***************** RESUME a LINK ***********************/
+
+.resume {
+  padding-bottom: .5rem;
+  padding-left: .5rem;
+}
+
+.resume-a {
+  text-decoration: none;
+  color: var(--primary-white);
+  border: .03rem solid ;
+  border-color: var(--primary-dark);
+  padding: .5rem;
+  margin-right: 1.5rem;
+}
+
+.resume-a:hover {
+  text-decoration: none;
+  color: var(--primary-white);
+  border-color: var(--primary-orange);
+  background-color: var(--primary-orange);
+}
+ 
 /***************** TYPED TEXT ***********************/
 
 .typed-text {
