@@ -14,7 +14,7 @@ const Portfolio = () => {
         const content = (
             <>
                 <img className="portfolio-image-popupbox" src={grooveit} alt="grooveit..." />
-                <p>lorem40</p>
+                <p>A Web application that users can watch and learn how to dance.</p>
                 <b>Demo: </b><a className="hyper-link" onClick={() => window.open("https://grooveit.netlify.app/")}>Grooveit</a>
             </>
         )
@@ -34,7 +34,7 @@ const Portfolio = () => {
         const content = (
             <>
                 <img className="portfolio-image-popupbox" src={dayMaker} alt="dayMaker..." />
-                <p>lorem40</p>
+                <p>Application that generates a day filled with randomized activities.</p>
                 <b>Demo: </b><a className="hyper-link" onClick={() => window.open("https://day-maker.netlify.app/")}>Day Maker</a>
             </>
         )
