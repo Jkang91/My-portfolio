@@ -31,12 +31,10 @@ const Footer = () => {
                     <div className="col-lg-5 col-md-5 col-sm-6 align-items-center">
                         <div className="d-flex justify-content-center">
                             <div className="contact-linkedin">
-                                <SocialIcon target="_blank" url="https://www.linkedin.com/in/june-kang-24a429191/" fgColor="white" bgColor="blue" />
-                                <a className="linkedin-a" href="https://www.linkedin.com/in/june-kang-24a429191/" target="_blank">LinkedIn</a>
+                                <SocialIcon target="_blank" url="https://www.linkedin.com/in/june-kang-24a429191/" fgColor="white" bgColor="blue" />  
                             </div>
                             <div className="contact-github">
                                 <SocialIcon target="_blank" url="https://github.com/Jkang91" fgColor="white" bgColor="dark-gray" />
-                                <a className="linkedin-a" href="https://github.com/Jkang91" target="_blank">Github</a>
                             </div>
                         </div>
                     </div>

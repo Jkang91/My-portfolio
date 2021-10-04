@@ -13,9 +13,9 @@ const AboutMe = () => {
                 <div className="col-lg-6 col-xm-12">
                     <h1 className="about-heading">About me</h1>
                     <p>
-                        Full stack Software Engineer with a drive to create applications that can help people globally.
+                        Full Stack Software Engineer with a drive to create applications that can help people globally.
                         Proficient in Javascript, Ruby, Rails, and React.  Background experience in healthcare and customer services.
-                        Always eager to learn and go beyond the expectation.
+                        Emphasizing communication because communication is the key to success.  Always eager to learn and go beyond.
                     </p>
                 </div>
             </div>
