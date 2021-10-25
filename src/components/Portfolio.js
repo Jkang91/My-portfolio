@@ -1,5 +1,5 @@
 import React from 'react'
-import grooveit from "../images/grooveit.png";
+import grooveit from "../images/groove-it.png";
 import dayMaker from "../images/day-maker.png";
 // FONT AWESOME IMPORTS
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
