@@ -4,7 +4,7 @@ import logo_inverted from "../logo_inverted.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-scroll";
-import Resume from "../June Kang's Resume.pdf";
+import Resume from "../Jun Kang's Resume.pdf";
 
 
 const Navbar = () => {
@@ -35,12 +35,15 @@ const Navbar = () => {
                         <li className="nav-item">
                             <Link smooth={true} to="Contacts" offset={-110} className="nav-link" href="#">Contacts</Link>
                         </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href={Resume} target="_blank" rel="noReferrer">Resume</a>
+                        </li>
                     </ul>
                     <br></br>
                 </div>
-                <div className="resume">
+                {/* <div className="resume">
                     <a className="resume-a"href={Resume} target="_blank" rel="noReferrer">Resume</a>
-                </div>
+                </div> */}
             </div>
         </nav>
     )
