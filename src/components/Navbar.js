@@ -4,7 +4,7 @@ import logo_inverted from "../logo_inverted.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-scroll";
-import Resume from "../June Kang's RESUME.pdf";
+import Resume from "../june_kang_resume.pdf";
 
 
 const Navbar = () => {
